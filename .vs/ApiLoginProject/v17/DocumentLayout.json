@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|c:\\users\\g.choucair\\documents\\internship2024\\apiloginproject\\apiloginproject\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|solutionrelative:apiloginproject\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|c:\\users\\g.choucair\\documents\\internship2024\\apiloginproject\\apiloginproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|solutionrelative:apiloginproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|c:\\users\\g.choucair\\documents\\internship2024\\apiloginproject\\apiloginproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|solutionrelative:apiloginproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|c:\\users\\g.choucair\\documents\\internship2024\\apiloginproject\\apiloginproject\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|solutionrelative:apiloginproject\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|c:\\users\\g.choucair\\documents\\internship2024\\apiloginproject\\apiloginproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|solutionrelative:apiloginproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|c:\\users\\g.choucair\\documents\\internship2024\\apiloginproject\\apiloginproject\\apiloginproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|solutionrelative:apiloginproject\\apiloginproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|c:\\users\\g.choucair\\documents\\internship2024\\apiloginproject\\apiloginproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C17574-A478-4016-A0C8-1ACF9E24DD48}|ApiLoginProject\\ApiLoginProject.csproj|solutionrelative:apiloginproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F805813-E35E-449C-A50F-8FA1E73C20AE}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\g.choucair\\documents\\internship2024\\apiloginproject\\businesslayer\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F805813-E35E-449C-A50F-8FA1E73C20AE}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\BusinessLayer\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\BusinessLayer\\Services\\BaseService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:04:02.089Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -67,66 +76,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\Program.cs",
-              "RelativeDocumentMoniker": "ApiLoginProject\\Program.cs",
-              "ToolTip": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\Program.cs",
-              "RelativeToolTip": "ApiLoginProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T08:26:18.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ApiLoginProject\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ApiLoginProject\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-27T08:17:48.155Z",
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\README.md",
+              "RelativeDocumentMoniker": "ApiLoginProject\\README.md",
+              "ToolTip": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\README.md",
+              "RelativeToolTip": "ApiLoginProject\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-27T17:22:30.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ApiLoginProject\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ApiLoginProject\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "ApiLoginProject\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "ApiLoginProject\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T08:11:13.92Z",
+              "WhenOpened": "2025-04-27T16:28:51.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApiLoginProject.http",
-              "DocumentMoniker": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\ApiLoginProject.http",
-              "RelativeDocumentMoniker": "ApiLoginProject\\ApiLoginProject.http",
-              "ToolTip": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\ApiLoginProject.http",
-              "RelativeToolTip": "ApiLoginProject\\ApiLoginProject.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-27T08:09:05.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "ApiLoginProject\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\WeatherForecast.cs",
-              "RelativeToolTip": "ApiLoginProject\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\Program.cs",
+              "RelativeDocumentMoniker": "ApiLoginProject\\Program.cs",
+              "ToolTip": "C:\\Users\\g.choucair\\Documents\\Internship2024\\ApiLoginProject\\ApiLoginProject\\Program.cs",
+              "RelativeToolTip": "ApiLoginProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T08:09:02.044Z",
+              "WhenOpened": "2025-04-27T16:25:55.875Z",
               "EditorCaption": ""
             }
           ]
